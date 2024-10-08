@@ -2,8 +2,6 @@
 <p align="center"><img src="/art/bento-python-sdk.png" alt="Bento Python SDK"></p>
 
 
-[![Build Status](https://travis-ci.org/bentonow/bento-python-sdk.svg?branch=master)](https://travis-ci.org/bentonow/bento-python-sdk)
-
 > [!TIP]
 > Need help? Join our [Discord](https://discord.gg/ssXXFRmt5F) or email jesse@bentonow.com for personalized support.
 
