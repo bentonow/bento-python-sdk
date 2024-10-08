@@ -2,8 +2,6 @@
 <p align="center"><img src="/art/bento-python-sdk.png" alt="Bento Python SDK"></p>
 
 
-# Bento SDK for Python
-
 [![Build Status](https://travis-ci.org/bentonow/bento-python-sdk.svg?branch=master)](https://travis-ci.org/bentonow/bento-python-sdk)
 
 > [!TIP]
