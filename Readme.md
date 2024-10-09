@@ -1,6 +1,5 @@
-
-<p align="center"><img src="/art/bento-python-sdk.png" alt="Bento Python SDK"></p>
-
+# Bento Python SDK
+<img align="right" src="https://app.bentonow.com/brand/logoanim.gif">
 
 > [!TIP]
 > Need help? Join our [Discord](https://discord.gg/ssXXFRmt5F) or email jesse@bentonow.com for personalized support.
