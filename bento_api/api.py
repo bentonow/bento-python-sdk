@@ -9,7 +9,10 @@ class BentoAPI:
         self.site_uuid = site_uuid
         self.session = requests.Session()
         self.session.auth = (username, password)
-        self.session.headers.update({'Content-Type': 'application/json'})
+        self.session.headers.update({
+            'Content-Type': 'application/json',
+            'User-Agent': f'bento-python-{site_uuid}'
+        })
 
     def _request(self, method: str, endpoint: str, **kwargs) -> Dict:
         url = f"{BASE_URL}{endpoint}"
